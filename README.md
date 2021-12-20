@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi 👋 I'm Marco! 💬 EN / ES
 
-<!--
-**MarcoPiatti/MarcoPiatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 Soy técnico en electrónica y estudiante de Ingeniería en Sistemas de Información en UTN FRBA.
 
-Here are some ideas to get you started:
+🔰 Lenguajes en los que soy nuevito:
+* Haskell
+* C#
+* Dart
+* Kotlin
+* Faust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Lenguajes en los que estoy más canchero:
+* C
+* C++
+
+⚡ Fun fact: Soy fanático del procesamiento de señales, y me encantan los sintetizadores. de todas las formas y colores
+
+[![Marco Piatti's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoPiatti&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoPiatti&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
