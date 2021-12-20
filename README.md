@@ -15,5 +15,5 @@
 
 ⚡ Fun fact: Soy fanático del procesamiento de señales, y me encantan los sintetizadores. de todas las formas y colores
 
-[![Marco Piatti's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoPiatti&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Marco Piatti's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoPiatti&count_private=true&show_icons=true&theme=swift&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoPiatti&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
