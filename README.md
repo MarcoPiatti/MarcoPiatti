@@ -1,4 +1,4 @@
-### Hi 👋 I'm Marco! 💬 EN / ES
+### Hola 👋 Soy Marco! 💬 EN / ES
 
 📖 Soy técnico en electrónica y estudiante de Ingeniería en Sistemas de Información en UTN FRBA.
 
